@@ -8,3 +8,6 @@ Program  dapat menyimpan dan melakukan seluruh siklus akuntansi secara lengkap u
 - Neraca.
 
 File database terdapat dalam folder Assets
+
+Berikut adalah tampilan ERD yang digunakan pada sistem.
+![ERD Sistem Informasi Akuntansi](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/Assets/ERD%20Sistem%20Akuntansi.png)
