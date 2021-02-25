@@ -1,0 +1,92 @@
+Laporan Per Tanggal : 27/06/2019
+
+Bagoes Bangets
+Jl. Raya Kalirungkut Surabaya
+Telp. (031) - 12345678
+**************************************************
+
+No. Akun : 11
+Nama Akun : Kas
+Kelompok : aset
+Total : Rp. 5.200.000
+==================================================
+No. Akun : 11
+Nama Akun : Kas
+Kelompok : aset
+Total : Rp. 17.600.000
+==================================================
+No. Akun : 12
+Nama Akun : Piutang
+Kelompok : aset
+Total : Rp. 20.000.000
+==================================================
+No. Akun : 12
+Nama Akun : Piutang
+Kelompok : aset
+Total : Rp. 20.000.000
+==================================================
+No. Akun : 13
+Nama Akun : Sediaan Bahan Baku
+Kelompok : aset
+Total : Rp. 4.116.300
+==================================================
+No. Akun : 13
+Nama Akun : Sediaan Bahan Baku
+Kelompok : aset
+Total : Rp. 4.732.600
+==================================================
+No. Akun : 14
+Nama Akun : WIP
+Kelompok : aset
+Total : Rp. 0.000
+==================================================
+No. Akun : 14
+Nama Akun : WIP
+Kelompok : aset
+Total : Rp. 0.000
+==================================================
+No. Akun : 15
+Nama Akun : Sediaan Barang Jadi
+Kelompok : aset
+Total : Rp. 27.975.900
+==================================================
+No. Akun : 15
+Nama Akun : Sediaan Barang Jadi
+Kelompok : aset
+Total : Rp. 45.951.800
+==================================================
+No. Akun : 21
+Nama Akun : Hutang
+Kelompok : kewajiban
+Total : Rp. 13.900.000
+==================================================
+No. Akun : 21
+Nama Akun : Hutang
+Kelompok : kewajiban
+Total : Rp. 14.300.000
+==================================================
+No. Akun : 22
+Nama Akun : Hutang Gaji
+Kelompok : kewajiban
+Total : Rp. 0.000
+==================================================
+No. Akun : 22
+Nama Akun : Hutang Gaji
+Kelompok : kewajiban
+Total : Rp. 0.000
+==================================================
+No. Akun : 31
+Nama Akun : Modal
+Kelompok : ekuitas
+Total : Rp. 55.792.200
+==================================================
+No. Akun : 31
+Nama Akun : Modal
+Kelompok : ekuitas
+Total : Rp. 61.584.400
+==================================================
+
+Total Aktiva: Rp.145.576.600
+
+Total Pasiva: Rp.145.576.600
+

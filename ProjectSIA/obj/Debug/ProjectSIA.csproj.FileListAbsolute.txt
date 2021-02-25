@@ -1,0 +1,161 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\ProjectSIA.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarEkuitas.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJobOrder.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnalPenutup.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarKartuStok.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarLabaRugi.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarNeraca.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormJobOrder.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormJurnalPenutup.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaran.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembayaran.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembelian.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPengiriman.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPembelian.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenjualan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormSuratJalan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormSuratPermintaan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\ProjectSIA\bin\Debug\SIA_LIB.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\bin\Debug\SIA_LIB.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarEkuitas.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJobOrder.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnalPenutup.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarKartuStok.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarLabaRugi.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarNeraca.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormJobOrder.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormJurnalPenutup.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaran.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPembelian.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenjualan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormSuratJalan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormSuratPermintaan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe.config
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\ProjectSIA.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\MySql.Data.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\bin\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csprojAssemblyReference.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarEkuitas.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJobOrder.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnal.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnalPenutup.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarKartuStok.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarLabaRugi.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarNeraca.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJobOrder.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJurnalPenutup.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaran.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembayaran.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembelian.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPengiriman.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembelian.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenjualan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratJalan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratPermintaan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormUtama.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.Properties.Resources.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.GenerateResource.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CoreCompileInputs.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CopyComplete
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.exe
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarSuratPermintaan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarSuratPermintaan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe.config
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\ProjectSIA.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\MySql.Data.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\bin\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csprojAssemblyReference.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarEkuitas.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJobOrder.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnal.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnalPenutup.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarKartuStok.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarLabaRugi.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarNeraca.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarSuratPermintaan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJobOrder.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJurnalPenutup.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaran.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembayaran.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembelian.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPengiriman.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembelian.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenjualan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratJalan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratPermintaan.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormUtama.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.Properties.Resources.resources
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.GenerateResource.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CoreCompileInputs.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CopyComplete
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.exe
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormBayarGajiKaryawan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe.config
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.exe
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.pdb
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csprojAssemblyReference.cache
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarEkuitas.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJobOrder.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnal.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarJurnalPenutup.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarKartuStok.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarLabaRugi.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarNeraca.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarSuratPermintaan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJobOrder.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormJurnalPenutup.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaran.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembayaran.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanPembelian.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPengiriman.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPembelian.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormPenjualan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratJalan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormSuratPermintaan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormBayarGajiKaryawan.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.FormUtama.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.Properties.Resources.resources
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.GenerateResource.cache
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CoreCompileInputs.cache
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\ProjectSIA.exe
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\ProjectSIA.pdb
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\SIA_LIB.dll
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\MySql.Data.dll
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\bin\Debug\SIA_LIB.pdb
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\ProjectSIA\obj\Debug\ProjectSIA.csproj.CopyComplete
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenerimaanBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormDaftarSuratJalan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPerhitunganDanPembebananBiayaTenagaKerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPembayaranGajiTenagaKerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\ProjectSIA\obj\Debug\ProjectSIA.FormPenyelesaianJobOrder.resources

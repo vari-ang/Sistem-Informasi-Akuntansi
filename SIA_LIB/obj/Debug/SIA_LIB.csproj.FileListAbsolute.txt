@@ -1,0 +1,33 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\bin\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\bin\Debug\SIA_LIB.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia_v5.2\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\bin\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\bin\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csprojAssemblyReference.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CopyComplete
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\obj\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\11\project-sia\SIA_LIB\obj\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\bin\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\bin\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CopyComplete
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\obj\Debug\SIA_LIB.dll
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\obj\Debug\SIA_LIB.pdb
+C:\Users\Albert JR\Documents\s.4\SIA\Project\12\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csprojAssemblyReference.cache
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\bin\Debug\SIA_LIB.dll
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\bin\Debug\SIA_LIB.pdb
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csproj.CopyComplete
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\obj\Debug\SIA_LIB.dll
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\obj\Debug\SIA_LIB.pdb
+C:\Users\Vinzo\Desktop\Smstr4\SIA\project-sia\SIA_LIB\obj\Debug\SIA_LIB.csprojAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\bin\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\bin\Debug\SIA_LIB.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIA\project-sia\ProjectSIA\SIA_LIB\obj\Debug\SIA_LIB.csprojResolveAssemblyReference.cache
