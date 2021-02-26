@@ -9,5 +9,27 @@ Program  dapat menyimpan dan melakukan seluruh siklus akuntansi secara lengkap u
 
 File database terdapat dalam folder Assets
 
-Berikut adalah tampilan ERD yang digunakan pada sistem.
+### Contoh Tampilan
+Home
+
+![Home](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/screenshots/home.png)
+
+Jenis Laporan
+
+![Jenis Laporan](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/screenshots/jenis%20laporan.png)
+
+Form Tambah Job Order
+
+![Form Tambah Job Order](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/screenshots/tambah%20job%20order.png)
+
+Form Tambah Nota Beli
+
+![Form Nota Beli](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/screenshots/tambah%20nota%20beli.png)
+
+Form Perhitungan Pembebanan Biaya Tenaga Kerja
+
+![Perhitungan Biaya Tenaga Kerja](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/screenshots/perhitungan_pembebanan%20biaya%20tenaga%20kerja.png)
+
+Berikut adalah tampilan ERD yang digunakan pada sistem
+
 ![ERD Sistem Informasi Akuntansi](https://github.com/vari8/Sistem-Informasi-Akuntansi/blob/master/Assets/ERD%20Sistem%20Akuntansi.png)
